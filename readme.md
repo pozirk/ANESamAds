@@ -1,3 +1,5 @@
+**Samsung abandoned its App Store and mobile ads, this ANE is obsolete.**
+
 # About
 ANESamAds is an Adobe AIR native extension (ANE) for Android to show Samsung Ads.<br />
 Supported functionality:<br />
